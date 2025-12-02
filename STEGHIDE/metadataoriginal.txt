@@ -1,0 +1,25 @@
+ExifTool Version Number         : 12.76
+File Name                       : mono.jpg
+Directory                       : .
+File Size                       : 36 kB
+File Modification Date/Time     : 2025:12:02 01:26:13+00:00
+File Access Date/Time           : 2025:12:02 18:43:09+00:00
+File Inode Change Date/Time     : 2025:12:02 18:41:49+00:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : 33af7a357cc0e740a081ccd556bbe073
+Special Instructions            : FBMD0a000a6f0100005f0c000030220000ac230000812500003232000004500000575200003555000069580000dc8d0000
+Image Width                     : 432
+Image Height                    : 432
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 432x432
+Megapixels                      : 0.187
